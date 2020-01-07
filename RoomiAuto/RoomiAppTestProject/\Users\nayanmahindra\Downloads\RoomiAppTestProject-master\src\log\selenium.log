@@ -1,0 +1,7 @@
+14:46:14,360 DEBUG devpinoyLogger:33 - Opening Chrome Browser
+14:46:16,964 DEBUG devpinoyLogger:43 - Opening https://roomiapp.com/
+14:46:22,947 DEBUG devpinoyLogger:18 - Clicking on Login button
+14:46:23,525 DEBUG devpinoyLogger:26 - Logging with Email
+14:46:24,121 DEBUG devpinoyLogger:29 - Verifying whether Logged in to Roomi App
+14:46:28,936 DEBUG devpinoyLogger:34 - Loging out from the App
+14:46:29,109 DEBUG devpinoyLogger:49 - Closing Browser....
